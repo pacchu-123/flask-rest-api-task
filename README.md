@@ -20,5 +20,8 @@ http://127.0.0.1:5000/users
 
 ## Output Screenshot
 
-![Output](output.png)
+![Output](1.jpg)
+![Output](2.jpg)
+![Output](3.jpg)
+![Output](4.jpg)
 
